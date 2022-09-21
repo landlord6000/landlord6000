@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @landlord6000
 - 👀 I’m interested in neural networks
-- 🌱 I’m currently working in GOSNIIAS as low-level engineer
+- 🌱 I’m currently working in GOSNIIAS as low-level engineer. We develop highly efficient software for Russian processors and cluster systems
 - 📫 How to reach me TG @boltusein 
 
 <!---
