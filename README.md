@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @landlord6000
 - 👀 I’m interested in neural networks
-- 🌱 I’m currently learning applied math in BMSTU
-- 💞️ I’m looking to collaborate on Skolkovo INC
+- 🌱 I’m currently working in GOSNIIAS as low-level engineer
 - 📫 How to reach me TG @boltusein 
 
 <!---
